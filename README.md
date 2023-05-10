@@ -10,6 +10,7 @@ Python is a general-purpose programming language that is widely used in various 
 R is another popular language that is widely used in data analysis and statistical computing. R is an open-source language that provides a wide range of statistical and graphical techniques for data analysis. R has a vast library of packages that provide tools for data manipulation, visualization, and modeling.
 
 _Simple Script_
+
 To help you get started with Python and R, we have provided a simple script that demonstrates some of the basic features of both languages. This script is intended to be fun and engaging, allowing you to experiment with code and see how the languages work.
 
 To use the script, follow these steps:
