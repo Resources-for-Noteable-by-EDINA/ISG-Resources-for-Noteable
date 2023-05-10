@@ -4,7 +4,7 @@ Welcome to your Noteable presentation Github page! This repository contains Jupy
 ## Welcome to our Jupyter Notebook Service
 We are excited to introduce our team to this Jupyter Notebook service that allows you to run and edit Jupyter notebooks directly from your web browser. Jupyter Notebook is a web-based interactive computational environment that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
 
-_Introduction to Python and R Languages_
+## Introduction to Python and R Languages
 Python is a general-purpose programming language that is widely used in various fields such as data science, web development, and scientific computing. Python is known for its simplicity, readability, and easy-to-learn syntax. It is an interpreted language that allows developers to write code quickly and test it immediately.
 
 R is another popular language that is widely used in data analysis and statistical computing. R is an open-source language that provides a wide range of statistical and graphical techniques for data analysis. R has a vast library of packages that provide tools for data manipulation, visualization, and modeling.
