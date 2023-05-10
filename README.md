@@ -1,7 +1,7 @@
-## WaC-Resources-for-Noteable
+# WaC-Resources-for-Noteable
 Welcome to your Noteable presentation Github page! This repository contains Jupyter notebook files for a presentation to the Website and Communications section in ISG, University of Edinburgh. In this presentation, the speaker will discuss various topics related to data analysis, visualization, and programming using Python and R.
 
-# Welcome to our Jupyter Notebook Service
+## Welcome to our Jupyter Notebook Service
 We are excited to introduce our team to this Jupyter Notebook service that allows you to run and edit Jupyter notebooks directly from your web browser. Jupyter Notebook is a web-based interactive computational environment that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
 
 _Introduction to Python and R Languages
@@ -18,13 +18,13 @@ To use the script, follow these steps:
 2. Copy and paste the following code into a new code cell:
 
 Copy code
-# Python
+## Python
 
 print("Hello, World!")
 
 
 Copy code
-# R
+## R
 print("Hello, World!")
 
 Run the code cell to see the output "Hello, World!" displayed on the screen.
