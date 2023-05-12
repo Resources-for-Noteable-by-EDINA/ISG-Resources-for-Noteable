@@ -25,7 +25,7 @@ print("Hello, World!")
 
 
 Copy code
-## R
+## RStudio
 print("Hello, World!")
 
 Run the code cell to see the output "Hello, World!" displayed on the screen.
